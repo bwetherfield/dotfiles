@@ -1,0 +1,13 @@
+alias bashalias='vim ~/.bash_alias'
+alias mv='mv -i'
+alias cp='cp -i'
+alias vim="/usr/local/Cellar/vim/*/bin/vim"
+alias vimstart='cd ~/.vim/pack/plugins/start'
+alias vimopt='cd ~/.vim/pack/plugins/opt'
+alias desk='cd ~/Desktop'
+alias vimplug='vim ~/.vim/set/plugs.vim'
+alias vimsettings='cd ~/.vim/vimrc-includes'
+alias sobash='source ~/.bash_profile'
+alias mba='cd ~/Desktop/mba-manual'
+alias downloads='cd ~/Downloads'
+alias home='cd ~'

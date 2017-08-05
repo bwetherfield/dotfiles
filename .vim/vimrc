@@ -1,0 +1,4 @@
+runtime set/plugs.vim
+runtime set/settings.vim
+runtime set/config.vim
+runtime set/maps.vim
