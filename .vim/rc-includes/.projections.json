@@ -1,0 +1,6 @@
+{
+  "plugs.vim": {"alternate": "maps.vim"},
+  "maps.vim": {"alternate": "settings.vim"},
+  "settings.vim": {"alternate": "config.vim"},
+  "config.vim": {"alternate": "plugs.vim"}
+}

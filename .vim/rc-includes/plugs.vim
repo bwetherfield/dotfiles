@@ -8,16 +8,19 @@ Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-speeddating'
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-eunuch'
-Plug 'SirVer/ultisnips'
-Plug 'honza/vim-snippets'
-Plug 'tomtom/tcomment_vim'
+Plug 'tpope/vim-projectionist'
+Plug 'tpope/vim-vinegar'
+
 Plug 'Valloric/YouCompleteMe'
+Plug 'SirVir/UltiSnips'
+Plug 'honza/vim-snippets'
+
 Plug 'tmhedberg/SimpylFold'
 Plug 'vim-scripts/indentpython.vim'
 Plug 'w0rp/ale'
 Plug 'nvie/vim-flake8'
-Plug 'jnurmine/Zenburn'
+
 Plug 'altercation/vim-colors-solarized'
-Plug 'scrooloose/nerdtree'
+
 Plug 'kien/ctrlp.vim'
 call plug#end()
