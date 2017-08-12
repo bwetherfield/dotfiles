@@ -12,10 +12,9 @@ Plug 'tpope/vim-projectionist'
 Plug 'tpope/vim-vinegar'
 
 Plug 'Valloric/YouCompleteMe'
-Plug 'SirVir/UltiSnips'
+Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 
-Plug 'tmhedberg/SimpylFold'
 Plug 'vim-scripts/indentpython.vim'
 Plug 'w0rp/ale'
 Plug 'nvie/vim-flake8'

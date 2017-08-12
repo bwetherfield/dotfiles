@@ -6,7 +6,10 @@ let g:solarized_termcolors=256
 colorscheme solarized
 set relativenumber
 set number
+set foldmethod=manual
 
+set splitbelow
+set splitright
 
 set tabstop=2
 set softtabstop=4
