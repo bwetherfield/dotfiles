@@ -2,7 +2,7 @@ let mapleader = '\'
 " UltiSnips
 let g:UltiSnipsEditSpli='vertical'
 let g:UltiSnipsSnippetsDir='/Users/ben/.vim/mysnippets'
-let g:UltiSnipsSnippetsDirectories=['UltiSnips','/Users/ben/.vim/mysnippets']
+let g:UltiSnipsSnippetDirectories=['UltiSnips','/Users/ben/.vim/mysnippets']
 let g:UltiSnipsExpandTrigger='<C-e>'
 let g:UltiSnipsJumpForwardTrigger='<C-j>'
 let g:UltiSnipsJumpBackwardTrigger='<C-k>'
