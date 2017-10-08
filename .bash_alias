@@ -1,3 +1,6 @@
+export MUTT_EMAIL_ADDRESS="bwetherfield@gmail.com"
+export MUTT_REALNAME="Ben Wetherfield"
+export MUTT_SMTP_URL="smtp://bwetherfield@smtp.gmail.com:587/"
 alias bashalias='vim ~/.bash_alias'
 alias mv='mv -i'
 alias cp='cp -i'
