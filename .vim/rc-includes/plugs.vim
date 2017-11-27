@@ -21,6 +21,4 @@ Plug 'w0rp/ale'
 Plug 'nvie/vim-flake8'
 
 Plug 'altercation/vim-colors-solarized'
-
-Plug 'kien/ctrlp.vim'
 call plug#end()
