@@ -1,0 +1,15 @@
+[user]
+	name = Ben Wetherfield
+	email = bwetherfield@gmail.com
+[core]
+	editor = vim
+	excludesfile = /Users/ben/.gitignore_global
+[color]
+	ui = true
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	last = log -1 HEAD
+	lone = log --oneline

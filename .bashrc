@@ -10,6 +10,4 @@ if [ -f ~/.bash_var ]; then
   source ~/.bash_var
 fi
 
-if [ -f ~/.tmux.conf ]; then
-  source ~/.tmux.conf
-fi
+tmux source-file .tmux.conf
